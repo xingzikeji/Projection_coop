@@ -7,3 +7,5 @@ Start：李向龙+周海鑫+刘璇恒，sketch2code  项目GitHUb仓库
 2、统计Sketch2Code的代码量
 3、理清楚Sketch2Code的文件逻辑。
 4、开始做出一些基本的UML图
+5、画草图，测试Custom_version的测试结果
+6、了解Custom_Version的工作机制
